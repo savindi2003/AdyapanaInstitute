@@ -1,5 +1,11 @@
 # 🎓 Adyapana - Student Management System (Java SE)
 
+[![Platform](https://img.shields.io/badge/platform-Desktop-blue)]()
+[![Language](https://img.shields.io/badge/language-Java-orange)]()
+[![Database](https://img.shields.io/badge/database-MySQL-green)]()
+[![Reporting](https://img.shields.io/badge/reports-JasperReports-purple)]()
+[![License](https://img.shields.io/badge/license-MIT-blue)]()
+
 **Adyapana** is a desktop-based Java SE application developed for **A/L tuition institutes** to manage student records, attendance, payments, and reports efficiently.  
 It provides a user-friendly interface and automates the daily administrative tasks of an educational institute.
 
